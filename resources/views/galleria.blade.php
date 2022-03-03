@@ -17,7 +17,7 @@
         <div class="nav-menu">
             <ul>
                 <li>
-                    <a href="home">HOMEPAGE</a>
+                    <a href="/">HOMEPAGE</a>
                 </li>
                 <li>
                     <a href="galleria">GALLERIA</a>
@@ -33,7 +33,7 @@
     </header>
 
     <main>
-        <h1>Questa è la pagina della galleria</h1>
+        <h1>Galleria</h1>
     </main>
     
 </body>
